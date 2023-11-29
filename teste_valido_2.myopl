@@ -1,0 +1,10 @@
+def main()
+  if (1) then 
+    var a = "valido"
+    if (1) then 
+      print(a) 
+    end
+  end
+end
+
+main()
